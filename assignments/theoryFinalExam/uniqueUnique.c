@@ -5,8 +5,7 @@
 //step4:: return count
 #include<stdio.h>
 #include<stdlib.h>
-void getSortedString(char string[], int length);
-void swap(char* a, char* b);
+
 
 int main(){
     int n, i,j, count = 0;
